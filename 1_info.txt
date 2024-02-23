@@ -1,0 +1,15 @@
+Key Terms
+
+Rust - A systems programming language the course focuses on learning.
+
+Cargo - Rust's built-in package manager mentioned for managing dependencies.
+
+crates.io - A repository of Rust packages that can be added as dependencies.
+
+Compiler - Translates Rust code and provides errors during compilation.
+
+Rust Analyzer - A Visual Studio Code extension for Rust development.
+
+Visual Studio Code - The recommended text editor for the course.
+
+Settings Sync - Syncs VS Code settings between devices. Useful for codespaces.
